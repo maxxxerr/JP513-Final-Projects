@@ -44,8 +44,8 @@
 Откройте терминал/консоль на компьютере и склонируйте **свой форкнутый** репозиторий (замените `ВАШ_НИКНЕЙМ` на ваше имя пользователя GitHub):
 
 ```bash
-git clone https://github.com/ВАШ_НИКНЕЙМ/exam-projects-513.git
-cd exam-projects-513
+git clone https://github.com/ВАШ_НИКНЕЙМ/JP513-Final-Projects.git
+cd JP513-Final-Projects
 ```
 
 ### Шаг 3. Создание новой ветки
